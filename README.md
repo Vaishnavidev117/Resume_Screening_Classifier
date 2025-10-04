@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resume Screening Classifier
 
 This repository contains a small demo `Resume_screen.py` that trains a toy RandomForest model
@@ -31,3 +32,6 @@ The Gradio UI will open in your browser. Upload a resume file and see the predic
 Notes:
 - The demo uses a very small in-memory dataset. Replace with your labeled data and persist the model for real use.
 - If spaCy isn't installed or its model isn't downloaded, the script falls back to a basic tokenizer.
+=======
+# Resume_Screening_Classifier
+>>>>>>> c7d8c6f6df718dd984f246b79d3d46beeeebddc8
